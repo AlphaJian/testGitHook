@@ -23,8 +23,8 @@ class ViewController: UIViewController {
         return 3
     }
 
-    func aa(a:Int, b:Int,
-            c:Int, d: Int, e: Int, f: Int) {
+    func aa(a: Int, b: Int,
+            c: Int, d: Int, e: Int, f: Int) {
 
     }
 
